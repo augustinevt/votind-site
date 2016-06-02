@@ -1,5 +1,13 @@
-.test {
+#under-age {
   width: 30vw;
   height: 30vw;
   background-color: grey;
+  display: none;
+}
+
+#of-age {
+  width: 30vw;
+  height: 30vw;
+  background-color: grey;
+  display: none;
 }
